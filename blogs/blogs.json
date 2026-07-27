@@ -1,0 +1,21 @@
+{
+  "repo": "helpling",
+  "feeds": [
+    {
+      "source": "https://www.helpling.de/de_en/feed/",
+      "feed_url": "https://www.helpling.de/de_en/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.helpling.de/de_en/pricing/",
+      "feed_url": "https://www.helpling.de/de_en/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 12,
+  "fetched": "2026-07-25T15:00:33Z"
+}
